@@ -29,7 +29,7 @@ python detect.py yolov3_int8.prototxt yolov3.caffemodel
 ###### 生成离线模型，在yolov3_caffe_demo/offline路径下：
 
 ```shell
- ./caffe genoff -model ../quantize/yolov3_int8.prototxt -weights       ../quantize/yolov3.caffemodel -mcore MLU270
+ ./caffe genoff -model ../quantize/yolov3_int8.prototxt -weights  ../quantize/yolov3.caffemodel -mcore MLU270
 ```
 
 ###### 离线推理，在yolov3_caffe_demo/offline/yolov3_offline_simple_demo路径下：
