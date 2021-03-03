@@ -1,0 +1,3 @@
+	+ Label: bicycle, Conf: 0.99512
+	+ Label: truck, Conf: 0.85693
+	+ Label: dog, Conf: 0.96777

@@ -1,0 +1,33 @@
+This is the Twins File of "offline.cambricon".
+Function number: 1
+---------------kernel graph--------------------
+
+Function #0 {
+Kernel num:1 
+Cache mode:0 
+Name: subnet0
+Input number: 1
+    Input #0.
+        Mask: 338036233
+        Shape(dim): 1 416 416 4 
+        Name: 
+        Id: 296
+        Data type: CNRT_UINT8        Dim Order: CNRT_NHWC
+        Quantize position: 1313169228
+        Quantize scale: 0.000000
+Output number: 1
+    Output #0.
+        Mask: 338036233
+        Shape(dim): 1 1 1 7232 
+        Name: 
+        Id: 1274
+        Data type: CNRT_FLOAT16        Dim Order: CNRT_NHWC
+        Quantize position: 1313169228
+        Quantize scale: 0.000000
+Kernel header #0:
+    Name: subnet01
+    Core version: 
+    Model Parallelism: 1
+    Core limit: 1
+    Inst data split: true
+}
