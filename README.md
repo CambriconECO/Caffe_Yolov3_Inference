@@ -1,5 +1,11 @@
 ## yolov3_caffe_demo 使用
 
+#### 介绍
+
+此demo演示了caffe框架下的yolov3模型在MLU270上的移植。
+
+教程链接：https://developer.cambricon.com/index/curriculum/expdetails/id/4/classid/8.html
+
 #### 1、模型结构转换
 
 ###### convert路径下：
