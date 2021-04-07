@@ -12,7 +12,7 @@
 ###### 在运行该demo前，需要下载相关依赖，Caffe_Yolov3_Inference路径下：
 
 ```shell
-./setup.sh
+bash setup.sh
 ```
 
 #### 1、模型结构转换
