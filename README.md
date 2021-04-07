@@ -22,7 +22,7 @@
 ```python
 python darknet2caffe-yoloV23.py 3  yolov3.cfg  yolov3.weights  yolov3.prototxt  yolov3.caffemodel
 ```
-###### 在转换为prototxt文件后，还需要添加后处理节点，该步骤请详细参考教程
+###### 在转换为prototxt文件后，还需要添加后处理节点，该步骤请详细参考教程：https://developer.cambricon.com/index/curriculum/expdetails/id/4/classid/8.html
 
 #### 2、模型量化
 
