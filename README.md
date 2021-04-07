@@ -8,7 +8,7 @@
 
 相关教程链接：https://developer.cambricon.com/index/curriculum/expdetails/id/4/classid/8.html
 
-#### 0.运行依赖下载
+#### 0、运行依赖下载
 ###### 在运行该demo前，需要下载相关依赖，Caffe_Yolov3_Inference路径下：
 
 ```shell
